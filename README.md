@@ -40,5 +40,6 @@
 
 ## Deployed link
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50c22984-e316-42fe-a486-74f2fc413df6/deploy-status)](https://rohankaushikproject15.netlify.app/)
 
 
